@@ -19,6 +19,6 @@
   "homepage": "https://github.com/jonathandasilvaalves/codeceptMobile#readme",
   "dependencies": {
     "appium-doctor": "^1.15.3",
-    "codeceptjs": "^2.6.6"
+    "codeceptjs": "^3.0.0"
   }
 }
